@@ -502,7 +502,7 @@ a[data-lightbox]:hover img{
 /* Text colour styles */
 
 .tc-white{
-	color:#ffffff!important;
+	color:rgba(0,0,0,.7)!important;
 }
 /* Button colour styles */
 
@@ -527,8 +527,8 @@ a[data-lightbox]:hover img{
 
 /* Bloc image backgrounds */
 
-.bg-city-overlay{
-	background-image:url("img/city-overlay.png");
+.bg-rocket-overlay{
+	background-image:url("img/statictest1.jpg");
 }
 
 
